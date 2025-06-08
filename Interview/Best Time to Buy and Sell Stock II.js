@@ -1,7 +1,3 @@
-/**
- * @param {number[]} prices
- * @return {number}
- */
 var maxProfit = function(prices) { // meu
 
     let i, k, res = 0;
